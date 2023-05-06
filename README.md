@@ -3,14 +3,6 @@
 ## Provide an introduction to your project or notes, including its purpose and key features.
 
 Create a collection of projects
-
-1. [Getting Started](#getting-started)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
